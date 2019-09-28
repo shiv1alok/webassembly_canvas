@@ -15,4 +15,5 @@ Thanks
 ## Installation
 
 1. npm install
-2. Go to http://localhost:3333/
+2. npm start
+3. Go to http://localhost:3333/
